@@ -1,0 +1,11 @@
+idfriends	Names_of_Friends	Hobbs-and-Shaw	Lion-King	Good-Boys	Spiderman-Far-from-Home	Dora-The-Explorer	Angry-Birds-2
+1	Stacy	5	5	NULL	5	5	2
+2	Claribel	5	3	3	5	2	4
+3	Matt	4	4	3	5	5	2
+4	Corey	4	4	3	4	4	2
+5	Bailey	3	4	3	5	5	2
+6	Alex	3	3	2	4	4	1
+7	Angel	NULL	4	4	2	4	2
+8	Chris	5	4	3	5	4	2
+9	Cynthia	4	3	3	5	5	NULL
+10	Martha	2	2	2	5	5	1
